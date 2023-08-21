@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Aug 18 11:36:27 BST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018a-0837-c3f4-000007708000 
+on database directory /Users/user/Documents/CI553-CW-main/catshop.db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/user/Documents/CI553-CW-main/lib/db-derby-10.14.2.0-lib/lib/derby.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=17.0.8+7-LTS
+user.dir=/Users/user/Documents/CI553-CW-main
+os.name=Mac OS X
+os.arch=aarch64
+os.version=13.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
